@@ -8,10 +8,6 @@ It was created to practice basic web development skills and uploading to GitHub.
 - `style.css` → styling for the page  
 - `cookies.jpg` → image of cookies  
 
-## 🚀 Live Demo
-(Once enabled, your site will be live with **GitHub Pages** here)  
-👉 https://PylaPragnaSri.github.io/recipe_page/
-
 ## ✨ Features
 - Clean and simple layout
 - Recipe ingredients and instructions
